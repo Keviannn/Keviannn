@@ -13,5 +13,5 @@ kevian@github:~/me$ cat ./kevian.txt
 ```
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Keviannn&langs_count=4&theme=dark_github&hide=TeX,LaTeX" alt="GitHub Stats" width="40%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Keviannn&layout=compact&langs_count=6&theme=dark_github&hide=TeX,LaTeX,Wolfram+Language" alt="GitHub Stats" width="40%" />
 </p>
